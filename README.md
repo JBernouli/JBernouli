@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JBernouli
-- 👀 I’m interested in embedded/linux/operating systems/Android
-- 🌱 I’m currently learning Android/kotlin+java
-- 💞️ I’m looking to collaborate on Android OS projects
+- 👀 I’m interested in embedded/linux/operating systems/Android/Web Dev, Tiny ML, 
+- 🌱 I’m currently learning Android/kotlin+java, React, Javascript
+- 💞️ Hit me up if you've got a fun project
 - 📫 How to reach me ...
 
 <!---
