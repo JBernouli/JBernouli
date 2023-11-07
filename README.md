@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded/linux/operating systems/Android/Web Dev, Tiny ML, 
 - 🌱 I’m currently learning Android/kotlin+java, React, Javascript
 - 💞️ Hit me up if you've got a fun project
-- 📫 How to reach me ...
+- 📫 How to reach me jahiz.ahmed@hotmail.com
 
 <!---
 JBernouli/JBernouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
